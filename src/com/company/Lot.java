@@ -7,21 +7,40 @@ public class Lot {
     private int iloscSiedzen = 150;
     private char klasa;
     private boolean[] czyMiejsceJestDostepne;
+    private Pasazer[] pasazerowie;
 
-    public Lot() {
+    {
         czyMiejsceJestDostepne = new boolean[iloscSiedzen];
         for (int i = 0; i < iloscSiedzen; i++) {
             czyMiejsceJestDostepne[i] = true;
         }
     }
 
+    {
+        numerLotu = 11;
+    }
+
+    {
+        liczbaPasazerow = 11;
+    }
+
+    public Lot() {
+
+    }
+
     public Lot(int numerLotu) {
-        this();
         this.numerLotu = numerLotu;
     }
 
     public Lot(char klasa) {
-        this();
         this.klasa = klasa;
+    }
+
+    public void dodajPasazerow(Pasazer... pasazerowie) {
+        this.pasazerowie = pasazerowie;
+
+        for (Pasazer pasazer: pasazerowie) {
+            System.out.println(pasazer);
+        }
     }
 }

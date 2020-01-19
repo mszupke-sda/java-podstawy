@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f06a3658-168e-4441-a3b5-6c3211332ca0" name="Default Changelist" comment="" />
+    <list default="true" id="f06a3658-168e-4441-a3b5-6c3211332ca0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/KontrolaLotow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Pasazer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/figury/Kolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/figury/Kwadrat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/figury/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/figury/Prostokat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/figury/Trojkat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niezmiennosc/NiezmiennoscObiektow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niezmiennosc/NiezmiennoscTypowProstych.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niezmiennosc/NiezmiennoscTypowReferencyjnych.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niezmiennosc/Pies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania/Zadanie5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania/Zadanie6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania/Zadanie7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPodstawy/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPodstawy/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPodstawy/com/company/Pies.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPodstawy/com/company/Pies.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPodstawy/com/company/Ziemia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPodstawy/com/company/Ziemia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Ziemia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Ziemia.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +36,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WHyaZgIDcfcpWtobq3qjGxzvRM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +48,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
@@ -41,13 +68,13 @@
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Zadanie4">
-    <configuration name="KolejnoscWykonywaniaZadan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.KolejnoscWykonywaniaZadan" />
+  <component name="RunManager" selected="Application.NiezmiennoscObiektow">
+    <configuration name="NiezmiennoscObiektow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="niezmiennosc.NiezmiennoscObiektow" />
       <module name="JavaPodstawy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="niezmiennosc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+    <configuration name="NiezmiennoscTypowProstych" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="niezmiennosc.NiezmiennoscTypowProstych" />
       <module name="JavaPodstawy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="niezmiennosc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Switch" />
+    <configuration name="NiezmiennoscTypowReferencyjnych" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="niezmiennosc.NiezmiennoscTypowReferencyjnych" />
       <module name="JavaPodstawy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="niezmiennosc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Zadanie1" />
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="figury.Program" />
       <module name="JavaPodstawy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="figury.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Zadanie4" />
+    <configuration name="Zadanie7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadania.Zadanie7" />
       <module name="JavaPodstawy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="zadania.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zadanie4" />
-        <item itemvalue="Application.Zadanie1" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Switch" />
-        <item itemvalue="Application.KolejnoscWykonywaniaZadan" />
+        <item itemvalue="Application.NiezmiennoscObiektow" />
+        <item itemvalue="Application.NiezmiennoscTypowReferencyjnych" />
+        <item itemvalue="Application.NiezmiennoscTypowProstych" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Zadanie7" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +166,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578820878207</updated>
-      <workItem from="1578820879844" duration="22824000" />
+      <workItem from="1578820879844" duration="39629000" />
     </task>
     <servers />
   </component>
@@ -147,17 +174,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="554" y="0" key="#com.intellij.ide.util.MemberChooser.inPresentationMode" timestamp="1579438265557">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="554" y="0" key="#com.intellij.ide.util.MemberChooser.inPresentationMode/0.0.1920.1080@0.0.1920.1080" timestamp="1579438265557" />
     <state width="1440" height="212" key="GridCell.Tab.0.bottom" timestamp="1579377164761">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="212" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1579354931537">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1920" height="258" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1579441117817">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1440" height="212" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1440.900@0.0.1440.900" timestamp="1579354931537" />
-    <state width="1866" height="196" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1920.1080@0.0.1920.1080" timestamp="1579336330022" />
+    <state width="1920" height="258" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1920.1080@0.0.1920.1080" timestamp="1579441117817" />
     <state width="1386" height="191" key="GridCell.Tab.0.bottom.inPresentationMode/0.23.1440.822@0.23.1440.822" timestamp="1579345511015" />
     <state width="1866" height="256" key="GridCell.Tab.0.bottom.inPresentationMode/0.23.1920.980@0.23.1920.980" timestamp="1578822568877" />
-    <state width="1866" height="196" key="GridCell.Tab.0.bottom.inPresentationMode/0.23.1920.984@0.23.1920.984" timestamp="1579336242896" />
+    <state width="1866" height="190" key="GridCell.Tab.0.bottom.inPresentationMode/0.23.1920.984@0.23.1920.984" timestamp="1579420982281" />
     <state width="1440" height="212" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579377164761" />
     <state width="1386" height="196" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1579294928020" />
     <state width="1920" height="253" key="GridCell.Tab.0.bottom/0.23.1920.980@0.23.1920.980" timestamp="1578822483848" />
@@ -165,14 +196,14 @@
     <state width="1440" height="212" key="GridCell.Tab.0.center" timestamp="1579377164759">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="212" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1579354931535">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1920" height="258" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1579441117815">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1440" height="212" key="GridCell.Tab.0.center.inPresentationMode/0.0.1440.900@0.0.1440.900" timestamp="1579354931535" />
-    <state width="1866" height="196" key="GridCell.Tab.0.center.inPresentationMode/0.0.1920.1080@0.0.1920.1080" timestamp="1579336330020" />
+    <state width="1920" height="258" key="GridCell.Tab.0.center.inPresentationMode/0.0.1920.1080@0.0.1920.1080" timestamp="1579441117815" />
     <state width="1386" height="191" key="GridCell.Tab.0.center.inPresentationMode/0.23.1440.822@0.23.1440.822" timestamp="1579345511014" />
     <state width="1866" height="256" key="GridCell.Tab.0.center.inPresentationMode/0.23.1920.980@0.23.1920.980" timestamp="1578822568876" />
-    <state width="1866" height="196" key="GridCell.Tab.0.center.inPresentationMode/0.23.1920.984@0.23.1920.984" timestamp="1579336242895" />
+    <state width="1866" height="190" key="GridCell.Tab.0.center.inPresentationMode/0.23.1920.984@0.23.1920.984" timestamp="1579420982280" />
     <state width="1440" height="212" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579377164759" />
     <state width="1386" height="196" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1579294928019" />
     <state width="1920" height="253" key="GridCell.Tab.0.center/0.23.1920.980@0.23.1920.980" timestamp="1578822483848" />
@@ -180,14 +211,14 @@
     <state width="1440" height="212" key="GridCell.Tab.0.left" timestamp="1579377164612">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="212" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1579354931535">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1920" height="258" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1579441117814">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1440" height="212" key="GridCell.Tab.0.left.inPresentationMode/0.0.1440.900@0.0.1440.900" timestamp="1579354931535" />
-    <state width="1866" height="196" key="GridCell.Tab.0.left.inPresentationMode/0.0.1920.1080@0.0.1920.1080" timestamp="1579336330020" />
+    <state width="1920" height="258" key="GridCell.Tab.0.left.inPresentationMode/0.0.1920.1080@0.0.1920.1080" timestamp="1579441117814" />
     <state width="1386" height="191" key="GridCell.Tab.0.left.inPresentationMode/0.23.1440.822@0.23.1440.822" timestamp="1579345511014" />
     <state width="1866" height="256" key="GridCell.Tab.0.left.inPresentationMode/0.23.1920.980@0.23.1920.980" timestamp="1578822568876" />
-    <state width="1866" height="196" key="GridCell.Tab.0.left.inPresentationMode/0.23.1920.984@0.23.1920.984" timestamp="1579336242894" />
+    <state width="1866" height="190" key="GridCell.Tab.0.left.inPresentationMode/0.23.1920.984@0.23.1920.984" timestamp="1579420982280" />
     <state width="1440" height="212" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579377164612" />
     <state width="1386" height="196" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1579294928019" />
     <state width="1920" height="253" key="GridCell.Tab.0.left/0.23.1920.980@0.23.1920.980" timestamp="1578822483847" />
@@ -195,14 +226,14 @@
     <state width="1440" height="212" key="GridCell.Tab.0.right" timestamp="1579377164760">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="212" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1579354931536">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1920" height="258" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1579441117816">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1440" height="212" key="GridCell.Tab.0.right.inPresentationMode/0.0.1440.900@0.0.1440.900" timestamp="1579354931536" />
-    <state width="1866" height="196" key="GridCell.Tab.0.right.inPresentationMode/0.0.1920.1080@0.0.1920.1080" timestamp="1579336330021" />
+    <state width="1920" height="258" key="GridCell.Tab.0.right.inPresentationMode/0.0.1920.1080@0.0.1920.1080" timestamp="1579441117816" />
     <state width="1386" height="191" key="GridCell.Tab.0.right.inPresentationMode/0.23.1440.822@0.23.1440.822" timestamp="1579345511014" />
     <state width="1866" height="256" key="GridCell.Tab.0.right.inPresentationMode/0.23.1920.980@0.23.1920.980" timestamp="1578822568876" />
-    <state width="1866" height="196" key="GridCell.Tab.0.right.inPresentationMode/0.23.1920.984@0.23.1920.984" timestamp="1579336242895" />
+    <state width="1866" height="190" key="GridCell.Tab.0.right.inPresentationMode/0.23.1920.984@0.23.1920.984" timestamp="1579420982280" />
     <state width="1440" height="212" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579377164760" />
     <state width="1386" height="196" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1579294928020" />
     <state width="1920" height="253" key="GridCell.Tab.0.right/0.23.1920.980@0.23.1920.980" timestamp="1578822483848" />
