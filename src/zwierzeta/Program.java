@@ -10,6 +10,17 @@ public class Program {
         pies.spij();
         pies.wedruj();
 
+        System.out.println(pies);
+
+        switch (pies.pozywienie) {
+            case MIESO:
+
+                break;
+            case TRAWA:
+
+                break;
+        }
+
         // Kot kot = new Kot(1, "100x100", "2:3");
     }
 }

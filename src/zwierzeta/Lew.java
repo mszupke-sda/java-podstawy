@@ -9,6 +9,10 @@ public class Lew extends Kotowate {
     @Override
     public void halasuj() {
         System.out.println("Lew: halasuj");
+
+        if (Zwierze.JAKAS_STALA == 1) {
+
+        }
     }
 
     @Override

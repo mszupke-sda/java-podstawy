@@ -3,7 +3,7 @@ package zwierzeta;
 public class Hipopotam extends Zwierze {
 
     public Hipopotam(int glod, String terytorium, String polozenie) {
-        super("hipopotam.png", "trawa", glod, terytorium, polozenie);
+        super("hipopotam.png", Pozywienie.TRAWA, glod, terytorium, polozenie);
     }
 
     @Override
