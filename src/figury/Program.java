@@ -16,10 +16,7 @@ public class Program {
     }
 
     private static void obliczTrojkat() {
-        Trojkat trojkat = new Trojkat(5,
-                7,
-                5,
-                5);
+        Trojkat trojkat = new TrojkatRownoboczny(5);
 
         double obwodTrojkata = trojkat.obliczObwod();
         double poleTrojkata = trojkat.obliczPolePowierzchni();

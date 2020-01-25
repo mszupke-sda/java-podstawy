@@ -24,7 +24,33 @@ public class Main {
         myVal *= 1 + 2;
 
         myVal = myVal * (1 + 2);
+
+        Y y = new Y();
     }
+
+    private static class X
+    {
+        int m = 1111;
+
+        {
+            m = m++;
+
+            System.out.println(m);
+        }
+    }
+
+    private static class Y extends X
+    {
+        {
+            System.out.println(methodOfY());
+        }
+
+        int methodOfY()
+        {
+            return m-- + --m;
+        }
+    }
+
 }
 
 
