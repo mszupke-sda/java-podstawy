@@ -11,4 +11,8 @@ public class Lot {
         wszyscyPasazerowie += 1;
     }
 
+    public static void test() {
+        Math.sqrt(2);
+    }
+
 }

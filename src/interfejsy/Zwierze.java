@@ -7,11 +7,11 @@ public class Zwierze {
     private Spanie spanie;
     private Wedrowanie wedrowanie;
 
-    public Zwierze(Jedzenie jedzenie) {
-//        this.halasowanie = halasowanie;
+    public Zwierze(Halasowanie halasowanie, Jedzenie jedzenie, Spanie spanie, Wedrowanie wedrowanie) {
+        this.halasowanie = halasowanie;
         this.jedzenie = jedzenie;
-//        this.spanie = spanie;
-//        this.wedrowanie = wedrowanie;
+        this.spanie = spanie;
+        this.wedrowanie = wedrowanie;
     }
 
     public void halasuj() {

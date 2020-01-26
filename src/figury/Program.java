@@ -1,12 +1,21 @@
 package figury;
 
+import interfejsy.Zwierze;
+
+import java.util.Scanner;
+
 public class Program {
 
     Kolo k;
 
     public static void main(String[] args) {
 
-        obliczTrojkat();
+        Program program = new Program();
+        program.start();
+
+
+
+        // obliczTrojkat();
         obliczKwadrat();
         obliczProstokat();
         obliczKolo();
@@ -15,7 +24,7 @@ public class Program {
         System.out.println(Math.pow(5, 2));
     }
 
-    private static void obliczTrojkat() {
+    private void obliczTrojkat() {
         Trojkat trojkat = new TrojkatRownoboczny(5);
 
         double obwodTrojkata = trojkat.obliczObwod();
@@ -54,6 +63,27 @@ public class Program {
 
         System.out.println("Obwód koła: " + obwodKola);
         System.out.println("Pole powierzchni koła " + poleKola);
+    }
+
+    public void start()  {
+
+        try {
+            while (true) {
+
+                Scanner scanner = new Scanner(System.in);
+                String a = scanner.next();
+
+                System.out.print(a);
+
+
+            }
+        } catch (Exception e) {
+
+            e.printStackTrace();
+
+        }
+
+
     }
 
 }
