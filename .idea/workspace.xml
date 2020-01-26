@@ -2,39 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f06a3658-168e-4441-a3b5-6c3211332ca0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exceptions/Lot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/MojWlasnyWyjatekException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/Numbers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/ReadFileProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfejsy/Pasazer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfejsy/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/Lot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zwierzeta/ZbytDuzeZmeczenieException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPodstawy/enums/Kolor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPodstawy/enums/Kolor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPodstawy/zwierzeta/Hipopotam.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPodstawy/zwierzeta/Hipopotam.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPodstawy/zwierzeta/Kot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPodstawy/zwierzeta/Kot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPodstawy/zwierzeta/Kotowate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPodstawy/zwierzeta/Kotowate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPodstawy/zwierzeta/Lew.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPodstawy/zwierzeta/Lew.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPodstawy/zwierzeta/Pies.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPodstawy/zwierzeta/Pies.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPodstawy/zwierzeta/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPodstawy/zwierzeta/Program.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPodstawy/zwierzeta/Psowate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPodstawy/zwierzeta/Psowate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPodstawy/zwierzeta/Tygrys.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPodstawy/zwierzeta/Tygrys.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPodstawy/zwierzeta/Wilk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPodstawy/zwierzeta/Wilk.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPodstawy/zwierzeta/Zwierze.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPodstawy/zwierzeta/Zwierze.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/enums/Kolor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enums/Kolor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/figury/Trojkat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/figury/Trojkat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zwierzeta/Hipopotam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zwierzeta/Hipopotam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zwierzeta/Kot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zwierzeta/Kot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zwierzeta/Kotowate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zwierzeta/Kotowate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zwierzeta/Lew.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zwierzeta/Lew.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zwierzeta/Pies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zwierzeta/Pies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zwierzeta/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zwierzeta/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zwierzeta/Psowate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zwierzeta/Psowate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/zwierzeta/Tygrys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zwierzeta/Tygrys.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/zwierzeta/Wilk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zwierzeta/Wilk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zwierzeta/Zwierze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zwierzeta/Zwierze.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +151,7 @@
       <updated>1578820878207</updated>
       <workItem from="1578820879844" duration="40190000" />
       <workItem from="1579809694244" duration="21322000" />
-      <workItem from="1580025471499" duration="5178000" />
+      <workItem from="1580025471499" duration="6030000" />
     </task>
     <servers />
   </component>
@@ -204,11 +174,11 @@
     <state width="1398" height="359" key="GridCell.Tab.0.bottom" timestamp="1579985493790">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state width="1920" height="521" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1580031760718">
+    <state width="1920" height="239" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1580032341463">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1440" height="277" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1440.900@0.0.1440.900" timestamp="1579960164201" />
-    <state width="1920" height="521" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1920.1080@0.0.1920.1080" timestamp="1580031760718" />
+    <state width="1920" height="239" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1920.1080@0.0.1920.1080" timestamp="1580032341463" />
     <state width="1386" height="191" key="GridCell.Tab.0.bottom.inPresentationMode/0.23.1440.822@0.23.1440.822" timestamp="1579345511015" />
     <state width="1398" height="186" key="GridCell.Tab.0.bottom.inPresentationMode/0.23.1440.826@0.23.1440.826" timestamp="1579895051290" />
     <state width="1866" height="256" key="GridCell.Tab.0.bottom.inPresentationMode/0.23.1920.980@0.23.1920.980" timestamp="1578822568877" />
@@ -224,11 +194,11 @@
     <state width="1398" height="359" key="GridCell.Tab.0.center" timestamp="1579985493790">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state width="1920" height="521" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1580031760716">
+    <state width="1920" height="239" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1580032341461">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1440" height="277" key="GridCell.Tab.0.center.inPresentationMode/0.0.1440.900@0.0.1440.900" timestamp="1579960164198" />
-    <state width="1920" height="521" key="GridCell.Tab.0.center.inPresentationMode/0.0.1920.1080@0.0.1920.1080" timestamp="1580031760716" />
+    <state width="1920" height="239" key="GridCell.Tab.0.center.inPresentationMode/0.0.1920.1080@0.0.1920.1080" timestamp="1580032341461" />
     <state width="1386" height="191" key="GridCell.Tab.0.center.inPresentationMode/0.23.1440.822@0.23.1440.822" timestamp="1579345511014" />
     <state width="1398" height="186" key="GridCell.Tab.0.center.inPresentationMode/0.23.1440.826@0.23.1440.826" timestamp="1579895051289" />
     <state width="1866" height="256" key="GridCell.Tab.0.center.inPresentationMode/0.23.1920.980@0.23.1920.980" timestamp="1578822568876" />
@@ -244,11 +214,11 @@
     <state width="1398" height="359" key="GridCell.Tab.0.left" timestamp="1579985493789">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state width="1920" height="521" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1580031760715">
+    <state width="1920" height="239" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1580032341460">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1440" height="277" key="GridCell.Tab.0.left.inPresentationMode/0.0.1440.900@0.0.1440.900" timestamp="1579960164043" />
-    <state width="1920" height="521" key="GridCell.Tab.0.left.inPresentationMode/0.0.1920.1080@0.0.1920.1080" timestamp="1580031760715" />
+    <state width="1920" height="239" key="GridCell.Tab.0.left.inPresentationMode/0.0.1920.1080@0.0.1920.1080" timestamp="1580032341460" />
     <state width="1386" height="191" key="GridCell.Tab.0.left.inPresentationMode/0.23.1440.822@0.23.1440.822" timestamp="1579345511014" />
     <state width="1398" height="186" key="GridCell.Tab.0.left.inPresentationMode/0.23.1440.826@0.23.1440.826" timestamp="1579895051288" />
     <state width="1866" height="256" key="GridCell.Tab.0.left.inPresentationMode/0.23.1920.980@0.23.1920.980" timestamp="1578822568876" />
@@ -264,11 +234,11 @@
     <state width="1398" height="359" key="GridCell.Tab.0.right" timestamp="1579985493790">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state width="1920" height="521" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1580031760717">
+    <state width="1920" height="239" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1580032341462">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1440" height="277" key="GridCell.Tab.0.right.inPresentationMode/0.0.1440.900@0.0.1440.900" timestamp="1579960164199" />
-    <state width="1920" height="521" key="GridCell.Tab.0.right.inPresentationMode/0.0.1920.1080@0.0.1920.1080" timestamp="1580031760717" />
+    <state width="1920" height="239" key="GridCell.Tab.0.right.inPresentationMode/0.0.1920.1080@0.0.1920.1080" timestamp="1580032341462" />
     <state width="1386" height="191" key="GridCell.Tab.0.right.inPresentationMode/0.23.1440.822@0.23.1440.822" timestamp="1579345511014" />
     <state width="1398" height="186" key="GridCell.Tab.0.right.inPresentationMode/0.23.1440.826@0.23.1440.826" timestamp="1579895051289" />
     <state width="1866" height="256" key="GridCell.Tab.0.right.inPresentationMode/0.23.1920.980@0.23.1920.980" timestamp="1578822568876" />
