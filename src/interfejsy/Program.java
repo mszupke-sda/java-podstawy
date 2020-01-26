@@ -14,5 +14,7 @@ public class Program {
         Pasazer[] pasazerowie = { bob, jane, steve, lisa };
         Arrays.sort(pasazerowie);
 
+        System.out.println(Arrays.toString(pasazerowie));
+
     }
 }

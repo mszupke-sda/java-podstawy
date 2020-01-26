@@ -1,6 +1,8 @@
 package interfejsy;
 
-public class Pasazer implements Comparable {
+import java.util.Comparator;
+
+public class Pasazer implements Comparable<Pasazer> {
 
     private int poziom; // 3 - platinum, 2 - gold, 1 - silver
     private int dlugoscCzlonkostwa;
@@ -10,10 +12,9 @@ public class Pasazer implements Comparable {
         this.dlugoscCzlonkostwa = dlugoscCzlonkostwa;
     }
 
-    @Override
-    public int compareTo(Object o) {
+    public int compareTo(Pasazer other) {
 
-        Pasazer other = (Pasazer) o;
+        // Pasazer other = (Pasazer) o;
 
         if (poziom > other.poziom) {
             return -1;
@@ -28,5 +29,13 @@ public class Pasazer implements Comparable {
                 return 0;
             }
         }
+    }
+
+    @Override
+    public String toString() {
+        return "Pasazer{" +
+                "poziom=" + poziom +
+                ", dlugoscCzlonkostwa=" + dlugoscCzlonkostwa +
+                '}';
     }
 }
