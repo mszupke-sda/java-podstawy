@@ -7,12 +7,16 @@ public class Wilk extends Psowate {
     }
 
     @Override
-    public void halasuj() {
+    public void halasuj() throws ZbytDuzeZmeczenieException {
         System.out.println("Wilk: halasuj");
+
+        zwiekszeZmeczenie(1);
     }
 
     @Override
-    public void wedruj() {
+    public void wedruj() throws ZbytDuzeZmeczenieException {
         System.out.println("Wilk: wedruj");
+
+        zwiekszeZmeczenie(1);
     }
 }

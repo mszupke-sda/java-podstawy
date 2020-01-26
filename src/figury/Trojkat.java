@@ -15,6 +15,8 @@ public class Trojkat {
         this.wysokosc = wysokosc;
         this.dlugoscPierwszegoBoku = dlugoscPierwszegoBoku;
         this.dlugoscDrugiegoBoku = dlugoscDrugiegoBoku;
+
+        // sprawdzić czy taki trójkąt jest geometrycznie poprawny
     }
 
     public double obliczPolePowierzchni() {

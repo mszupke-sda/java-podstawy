@@ -7,16 +7,24 @@ public class Lew extends Kotowate {
     }
 
     @Override
-    public void halasuj() {
-        System.out.println("Lew: halasuj");
+    public void halasuj() throws ZbytDuzeZmeczenieException {
 
-        if (Zwierze.JAKAS_STALA == 1) {
-
+        if (czyZeczony()) {
+            throw new ZbytDuzeZmeczenieException();
         }
+
+        System.out.println("Lew: halasuj");
+        zwiekszeZmeczenie(1);
     }
 
     @Override
-    public void wedruj() {
+    public void wedruj() throws ZbytDuzeZmeczenieException {
+
+        if (czyZeczony()) {
+            throw new ZbytDuzeZmeczenieException();
+        }
+
         System.out.println("Lew: wedruj");
+        zwiekszeZmeczenie(9);
     }
 }

@@ -7,17 +7,31 @@ public class Hipopotam extends Zwierze {
     }
 
     @Override
-    public void halasuj() {
+    public void halasuj() throws ZbytDuzeZmeczenieException {
+
+        if (czyZeczony()) {
+            throw new ZbytDuzeZmeczenieException();
+        }
+
         System.out.println("Hipopotam: halasuj");
+        zwiekszeZmeczenie(5);
     }
 
     @Override
     public void jedz() {
         System.out.println("Hipopotam: jedz");
+
+        zwiekszeZmeczenie(7);
     }
 
     @Override
-    public void wedruj() {
+    public void wedruj() throws ZbytDuzeZmeczenieException {
+
+        if (czyZeczony()) {
+            throw new ZbytDuzeZmeczenieException();
+        }
+
         System.out.println("Hipopotam: wedruj");
+        zwiekszeZmeczenie(10);
     }
 }

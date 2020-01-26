@@ -7,12 +7,24 @@ public class Kot extends Kotowate {
     }
 
     @Override
-    public void halasuj() {
+    public void halasuj() throws ZbytDuzeZmeczenieException {
+
+        if (czyZeczony()) {
+            throw new ZbytDuzeZmeczenieException();
+        }
+
         System.out.println("Kot: halasuj");
+        zwiekszeZmeczenie(1);
     }
 
     @Override
-    public void wedruj() {
+    public void wedruj() throws ZbytDuzeZmeczenieException {
+
+        if (czyZeczony()) {
+            throw new ZbytDuzeZmeczenieException();
+        }
+
         System.out.println("Kot: wedruj");
+        zwiekszeZmeczenie(9);
     }
 }

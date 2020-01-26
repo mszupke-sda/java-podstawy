@@ -7,13 +7,15 @@ public abstract class Psowate extends Zwierze {
     }
 
     @Override
-    public abstract void halasuj();
+    public abstract void halasuj() throws ZbytDuzeZmeczenieException;
 
     @Override
     public final void jedz() {
         System.out.println("Psowate: jedz");
+
+        zwiekszeZmeczenie(5);
     }
 
     @Override
-    public abstract void wedruj();
+    public abstract void wedruj() throws ZbytDuzeZmeczenieException;
 }

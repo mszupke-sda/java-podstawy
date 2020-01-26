@@ -7,12 +7,16 @@ public class Tygrys extends Kotowate {
     }
 
     @Override
-    public void halasuj() {
+    public void halasuj() throws ZbytDuzeZmeczenieException {
         System.out.println("Tygrys: halasuj");
+
+        zwiekszeZmeczenie(1);
     }
 
     @Override
-    public void wedruj() {
+    public void wedruj() throws ZbytDuzeZmeczenieException {
         System.out.println("Tygrys: wedruj");
+
+        zwiekszeZmeczenie(1);
     }
 }

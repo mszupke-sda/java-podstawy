@@ -7,13 +7,15 @@ public abstract class Kotowate extends Zwierze {
     }
 
     @Override
-    public abstract void halasuj();
+    public abstract void halasuj() throws ZbytDuzeZmeczenieException;
 
     @Override
     public final void jedz() {
         System.out.println("Kotowate: jedz");
+
+        zwiekszeZmeczenie(4);
     }
 
     @Override
-    public abstract void wedruj();
+    public abstract void wedruj() throws ZbytDuzeZmeczenieException;
 }
